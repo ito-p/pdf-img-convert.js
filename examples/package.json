@@ -8,7 +8,7 @@
   },
   "type": "module",
   "dependencies": {
-    "canvas": "^2.11.2",
+    "canvas": "^3.0.0-rc2",
     "express": "^4.19.2",
     "is-url": "^1.2.4",
     "node-fetch": "^3.3.2",
